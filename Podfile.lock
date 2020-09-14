@@ -1,0 +1,20 @@
+PODS:
+  - Instabug (9.1.7)
+  - SwiftyMarkdown (1.2.2)
+
+DEPENDENCIES:
+  - Instabug (= 9.1.7)
+  - SwiftyMarkdown (= 1.2.2)
+
+SPEC REPOS:
+  trunk:
+    - Instabug
+    - SwiftyMarkdown
+
+SPEC CHECKSUMS:
+  Instabug: 28838c071edc50e4f13800e6877645d3b328aab9
+  SwiftyMarkdown: 716936bd2031df713a8d22d166b9408f4884cab3
+
+PODFILE CHECKSUM: 006563ee951be049dbf905da1c921abeaa2e75b4
+
+COCOAPODS: 1.10.0.beta.2

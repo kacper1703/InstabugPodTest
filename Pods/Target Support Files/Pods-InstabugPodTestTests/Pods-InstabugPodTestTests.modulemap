@@ -1,0 +1,6 @@
+framework module Pods_InstabugPodTestTests {
+  umbrella header "Pods-InstabugPodTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
