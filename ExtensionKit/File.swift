@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Instabug
+import Alamofire
 
 extension String {
     public var reversed: String {

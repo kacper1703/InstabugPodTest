@@ -5,7 +5,7 @@
 //  Created by Kacper Czapp on 14/09/2020.
 //
 
-import ExtensionKit
+@testable import ExtensionKit
 import XCTest
 
 class ExtensionKitTests: XCTestCase {
